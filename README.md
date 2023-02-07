@@ -1,3 +1,21 @@
+# Technical Test for Creative CX
+
+Within the technical test, we would like to get to the candidate to install the Optimizely Full Stack SDK within the application and run 1 Full-Stack experiment within the Optimizely dashboard.
+
+This experiment should include 2 variations, one variation which re-styles the titles and another which adds in the link directly to IMDb.
+
+## Helpful Links:
+
+### Optimizely Docs:
+https://docs.developers.optimizely.com/full-stack/v4.0/docs
+
+### Optimizely Docs:
+https://docs.developers.optimizely.com/full-stack/v4.0/docs
+
+### React SDK Methods:
+https://docs.developers.optimizely.com/full-stack/v4.0/docs/javascript-react-sdk
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -5,6 +23,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Available Scripts
 
 In the project directory, you can run:
+
+### `yarn i`
+
+To install the whole application, run the above command.
 
 ### `yarn start`
 
