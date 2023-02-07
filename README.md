@@ -1,6 +1,8 @@
 # Technical Test for Creative CX
 
-Within the technical test, we would like to get to the candidate to install the Optimizely Full Stack SDK within the application and run 1 Full-Stack experiment within the Optimizely dashboard.
+Within the technical test, we would like to get to the candidate to utilise the Optimizely Full Stack SDK within the application and run 1 Full-Stack experiment within the Optimizely dashboard.
+
+If you don't have access, please email: liam.gosnell@creative-cx.com
 
 This experiment should include 2 variations, one variation which re-styles the titles and another which adds in the link directly to IMDb.
 
