@@ -11,3 +11,15 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.movieTitle {
+  color: FireBrick;
+}
+
+a.movieTitle {
+  text-decoration: none;
+}
+
+a.movieTitle:hover {
+  text-decoration: underline;
+}
